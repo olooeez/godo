@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"gitlab.com/olooeez/godo/internal/cli"
+	"github.com/olooeez/godo/internal/cli"
 )
 
 func main() {

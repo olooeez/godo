@@ -10,7 +10,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/urfave/cli/v2"
-	"gitlab.com/olooeez/godo/internal/task"
+	"github.com/olooeez/godo/internal/task"
 )
 
 var (
