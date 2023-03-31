@@ -14,7 +14,9 @@ Below is how you can use godo. Feel free to fork or copy them, but be aware of t
 
 You can use the following method to use godo:
 
-### Run in your machine
+1. [Install on your machine](#install-on-your-machine)
+
+### Install on your machine
 
 #### Use the go command to install godo
 
